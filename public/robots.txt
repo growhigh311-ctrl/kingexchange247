@@ -1,0 +1,7 @@
+# robots.txt for KingExchange247
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /drafts/
+
+Sitemap: https://kingexchange247.com/sitemap.xml
