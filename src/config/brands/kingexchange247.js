@@ -5,8 +5,8 @@ export default {
   "theme": "kingexchange247",
   "color": "Blue + Gold",
   "domain": "kingexchange247.com",
-  "phone": "+91 98765 43210",
-  "whatsapp": "+91 98765 43210",
+  "phone": "+91 7589045547",
+  "whatsapp": "+91 7589045547",
   "telegram": "@KingExchange247_Official",
   "tagline": "The Ultimate Royal Sports & Cricket Exchange",
   "seo": {
